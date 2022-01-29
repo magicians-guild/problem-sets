@@ -1,1 +1,2 @@
 week-3/answers/*.js filter=git-crypt diff=git-crypt
+*_tests.mjs filter=git-crypt diff=git-crypt
