@@ -12,7 +12,7 @@ Sample call: sayHello("Simon");
 */
 
 function sayHello(name) {
-
+    return "Hello " + name + "!";
 }
 
 
