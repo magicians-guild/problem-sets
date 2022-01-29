@@ -8,4 +8,4 @@
 
 1. Unlock the answers
    1. Hint: google git-crypt
-2. Bonus: Install Node and check your own answers with `all_tests.mjs` before uploading
+2. Bonus: Install Node.js and check your own answers with `all_tests.mjs` before uploading
