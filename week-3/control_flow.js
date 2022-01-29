@@ -86,3 +86,4 @@ function sumUpTo(target) {
 function sumUpToForLoop(target) {
 
 } 
+export { isEven, isPositive, sayHello, sumUpTo, sumUpToForLoop, findMax };
