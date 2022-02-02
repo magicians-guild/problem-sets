@@ -1,6 +1,6 @@
 # Instructions
 
-1. Clone this repository
+1. Clone this repository to your local computer
 2. Fill in the answers in [`week-3/control_flow.js`](https://github.com/magicians-guild/problem-sets/blob/main/week-3/control_flow.js)
 3. Upload answers to codepost
 
