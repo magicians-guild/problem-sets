@@ -33,6 +33,9 @@ Sample call: isPositive(2);
 function isPositive(number) {
 
 }
+let number = 2
+if (number>0) {console.log('True')}
+else {console.log(False)}
 
 /* 
 Write a function that returns True if the input number is even, False if is not
@@ -49,6 +52,7 @@ Sample call: isEven(3);
 function isEven(number) {
 
 }
+
 
 // For Loops
 
